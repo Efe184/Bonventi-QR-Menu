@@ -39,8 +39,8 @@ export async function generateStaticParams() {
   ]
 }
 
-export default function CategoryPage({ params }: { params: { category: string } }) {
-  const category = params.category
+export default async function CategoryPage({ params }: { params: Promise<{ category: string }> }) {
+  const { category } = await params
   
   // Find the category data from the menu array
   const categoryData = menuData.find(cat => cat.slug === category)
