@@ -11,6 +11,14 @@ const categories = [
     description: 'Taze ve lezzetli kahvaltı seçenekleri'
   },
   { 
+    id: 'alacarte-kahvalti', 
+    name: 'A La Carte Kahvaltı', 
+    nameEn: 'A La Carte Breakfast',
+    imageUrl: 'https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=400&h=300&fit=crop&crop=center',
+    fallbackColor: 'bg-gradient-to-br from-yellow-100 to-amber-100',
+    description: 'Ayrı ayrı sipariş edilebilen kahvaltı seçenekleri'
+  },
+  { 
     id: 'plaj', 
     name: 'Plaj', 
     nameEn: 'Beach',
@@ -63,51 +71,51 @@ const categories = [
 export default function Home() {
   return (
     <div className="min-h-screen gradient-blue-wave">
-      {/* Premium Header with Bonventi Branding */}
+      {/* Premium Header with Bonventi Branding - Mobile optimized */}
       <div className="glass-effect-blue shadow-blue-xl animate-float">
-        <div className="container mx-auto px-4 py-12">
+        <div className="container mx-auto px-4 py-8 md:py-12">
           <div className="text-center">
-            {/* Bonventi Logo */}
-            <div className="mb-8 animate-fade-in-up">
-              <h1 className="text-gradient-blue font-display text-5xl md:text-7xl font-bold mb-2 tracking-wider">
+            {/* Bonventi Logo - Responsive sizing */}
+            <div className="mb-6 md:mb-8 animate-fade-in-up">
+              <h1 className="text-gradient-blue font-display text-4xl md:text-5xl lg:text-7xl font-bold mb-2 tracking-wider">
                 BONVÉNTI
               </h1>
-              <div className="font-script text-brand-blue/80 text-2xl md:text-3xl italic">
+              <div className="font-script text-brand-blue/80 text-xl md:text-2xl lg:text-3xl italic">
                 by the sea
               </div>
             </div>
             
             <div className="divider-blue">
-              <span className="font-display text-xl">Premium Menu Experience</span>
+              <span className="font-display text-base md:text-xl">Premium Menu Experience</span>
             </div>
-            <p className="text-brand-blue/90 font-body text-xl md:text-2xl max-w-3xl mx-auto leading-relaxed mt-6">
+            <p className="text-brand-blue/90 font-body text-lg md:text-xl lg:text-2xl max-w-3xl mx-auto leading-relaxed mt-4 md:mt-6">
               Lüks deneyimimizi keşfedin • Discover our luxury experience
             </p>
             
-            {/* Blue accent decoration */}
-            <div className="flex justify-center mt-8">
-              <div className="w-24 h-1 gradient-blue rounded-full"></div>
+            {/* Blue accent decoration - Smaller on mobile */}
+            <div className="flex justify-center mt-6 md:mt-8">
+              <div className="w-16 md:w-24 h-0.5 md:h-1 gradient-blue rounded-full"></div>
             </div>
           </div>
         </div>
       </div>
       
-      {/* Premium Categories Grid with authentic images */}
-      <div className="container mx-auto px-4 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 max-w-7xl mx-auto">
+      {/* Premium Categories Grid with authentic images - Mobile optimized */}
+      <div className="container mx-auto px-4 py-8 md:py-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-10 max-w-7xl mx-auto">
           {categories.map((category, index) => (
             <Link
               key={category.id}
               href={`/${category.id}`}
               className="group block"
-              style={{ animationDelay: `${index * 150}ms` }}
+              style={{ animationDelay: `${index * 100}ms` }}
             >
-              <div className="corner-accent-blue glass-effect-blue hover-lift hover-glow animate-fade-in-up animate-pulse-glow rounded-3xl overflow-hidden h-full border-gradient-blue shadow-blue transition-all duration-500 hover-blue">
+              <div className="corner-accent-blue glass-effect-blue hover-lift hover-glow animate-fade-in-up animate-pulse-glow rounded-2xl md:rounded-3xl overflow-hidden h-full border-gradient-blue shadow-blue transition-all duration-500 hover-blue">
                 {/* Blue shimmer overlay */}
                 <div className="shimmer-blue absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 z-20"></div>
                 
-                {/* Premium Image Section */}
-                <div className="relative h-56 overflow-hidden">
+                {/* Premium Image Section - Responsive height */}
+                <div className="relative h-48 md:h-56 overflow-hidden">
                   {/* Fallback gradient background */}
                   <div className={`absolute inset-0 ${category.fallbackColor}`}></div>
                   
@@ -124,66 +132,66 @@ export default function Home() {
                   {/* Premium gradient overlay */}
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent group-hover:from-black/60 transition-all duration-500"></div>
                   
-                  {/* Category badge - Enhanced visibility */}
-                  <div className="absolute top-4 right-4 bg-white/95 backdrop-blur-sm px-4 py-2 rounded-full border border-white/30 shadow-lg">
+                  {/* Category badge - Enhanced visibility - Mobile responsive */}
+                  <div className="absolute top-3 right-3 md:top-4 md:right-4 bg-white/95 backdrop-blur-sm px-3 py-1.5 md:px-4 md:py-2 rounded-full border border-white/30 shadow-lg">
                     <span className="text-brand-blue text-xs font-bold uppercase tracking-wider">
                       {category.nameEn}
                     </span>
                   </div>
                   
-                  {/* Floating title on image */}
-                  <div className="absolute bottom-4 left-4 right-4">
-                    <h3 className="text-white font-display text-2xl md:text-3xl font-bold mb-1 drop-shadow-lg">
+                  {/* Floating title on image - Mobile responsive */}
+                  <div className="absolute bottom-3 left-3 right-3 md:bottom-4 md:left-4 md:right-4">
+                    <h3 className="text-white font-display text-xl md:text-2xl lg:text-3xl font-bold mb-1 drop-shadow-lg leading-tight">
                       {category.name}
                     </h3>
                   </div>
                 </div>
                 
-                {/* Content Section */}
-                <div className="relative z-10 p-6 text-center bg-white/95 backdrop-blur-sm">
-                  {/* Description */}
-                  <p className="text-brand-blue/80 font-body text-sm md:text-base leading-relaxed mb-4 group-hover:text-brand-blue transition-colors duration-300">
+                {/* Content Section - Mobile optimized padding */}
+                <div className="relative z-10 p-4 md:p-6 text-center bg-white/95 backdrop-blur-sm">
+                  {/* Description - Mobile responsive text */}
+                  <p className="text-brand-blue/80 font-body text-sm md:text-base leading-relaxed mb-3 md:mb-4 group-hover:text-brand-blue transition-colors duration-300 line-clamp-2 md:line-clamp-none">
                     {category.description}
                   </p>
                   
-                  {/* Premium blue hover indicator */}
+                  {/* Premium blue hover indicator - Mobile responsive */}
                   <div className="flex justify-center">
-                    <div className="w-12 h-1 gradient-blue-light rounded-full opacity-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:w-20"></div>
+                    <div className="w-8 md:w-12 h-0.5 md:h-1 gradient-blue-light rounded-full opacity-0 group-hover:opacity-100 transition-all duration-300 transform group-hover:w-12 md:group-hover:w-20"></div>
                   </div>
                 </div>
 
-                {/* Blue decorative elements */}
-                <div className="absolute top-6 left-6 w-3 h-3 bg-white/30 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10"></div>
-                <div className="absolute bottom-20 right-6 w-2 h-2 bg-brand-blue/30 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+                {/* Blue decorative elements - Mobile responsive */}
+                <div className="absolute top-4 md:top-6 left-4 md:left-6 w-2 md:w-3 h-2 md:h-3 bg-white/30 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10"></div>
+                <div className="absolute bottom-16 md:bottom-20 right-4 md:right-6 w-1.5 md:w-2 h-1.5 md:h-2 bg-brand-blue/30 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
               </div>
             </Link>
           ))}
         </div>
       </div>
       
-      {/* Premium Footer with Gventis Group Style */}
-      <div className="glass-effect-blue shadow-inner-blue mt-20">
-        <div className="container mx-auto px-4 py-12">
+      {/* Premium Footer with Gventis Group Style - Mobile optimized */}
+      <div className="glass-effect-blue shadow-inner-blue mt-12 md:mt-20">
+        <div className="container mx-auto px-4 py-8 md:py-12">
           <div className="text-center">
-            {/* Gventis Group Style Logo */}
-            <div className="mb-8">
-              <h2 className="font-body text-3xl md:text-4xl font-black uppercase tracking-tight text-brand-blue mb-2">
+            {/* Gventis Group Style Logo - Mobile responsive */}
+            <div className="mb-6 md:mb-8">
+              <h2 className="font-body text-2xl md:text-3xl lg:text-4xl font-black uppercase tracking-tight text-brand-blue mb-2">
                 GVENTIS
               </h2>
-              <div className="font-body text-sm md:text-base font-medium uppercase tracking-[0.3em] text-brand-blue/70">
+              <div className="font-body text-xs md:text-sm lg:text-base font-medium uppercase tracking-[0.3em] text-brand-blue/70">
                 GROUP
               </div>
             </div>
             
-            <p className="text-brand-blue/80 font-body text-lg mb-8">
+            <p className="text-brand-blue/80 font-body text-base md:text-lg mb-6 md:mb-8">
               Premium dining experience • Lüks yemek deneyimi
             </p>
             
-            {/* Blue brand elements */}
-            <div className="flex justify-center items-center space-x-4">
-              <div className="w-8 h-0.5 gradient-blue rounded-full"></div>
-              <div className="w-3 h-3 bg-brand-blue/30 rounded-full"></div>
-              <div className="w-8 h-0.5 gradient-blue rounded-full"></div>
+            {/* Blue brand elements - Mobile responsive */}
+            <div className="flex justify-center items-center space-x-3 md:space-x-4">
+              <div className="w-6 md:w-8 h-0.5 gradient-blue rounded-full"></div>
+              <div className="w-2 md:w-3 h-2 md:h-3 bg-brand-blue/30 rounded-full"></div>
+              <div className="w-6 md:w-8 h-0.5 gradient-blue rounded-full"></div>
             </div>
           </div>
         </div>

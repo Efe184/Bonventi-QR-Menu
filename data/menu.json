@@ -5,186 +5,417 @@
     "titleEN": "BREAKFAST",
     "items": [
       {
-        "nameTR": "Brioche ekmegi üzerinde, Straciatella peyniri",
-        "nameEN": "Brioche bread with Stracciatella cheese",
+        "nameTR": "BREAKFAST",
+        "nameEN": "BREAKFAST",
+        "price": "2200₺",
+        "descriptionTR": "Aşağıdaki tüm seçenekler dahildir",
+        "descriptionEN": "All options below are included"
+      },
+      {
+        "nameTR": "Brioche ekmeği üzerinde, Stracciatella peyniri, Kayısı Reçeli",
+        "nameEN": "Brioche bread with Stracciatella cheese and Apricot Jam",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "İspanaklı Frittata",
+        "nameEN": "Spinach Frittata",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Tiramisu Crepes",
+        "nameEN": "Tiramisu Crepes",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Matbucha Soslu Yumurta Salatası, Tulum peyniri",
+        "nameEN": "Egg salad with Matbucha sauce, Tulum cheese",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Peynir Tabağı",
+        "nameEN": "Cheese Platter",
+        "price": "",
+        "descriptionTR": "Ezine peyniri, Otlu Peynir, Emmental Peyniri, Dible Obruk Peyniri",
+        "descriptionEN": "Ezine Cheese, Herb Cheese, Emmental Cheese, Dible Obruk Cheese"
+      },
+      {
+        "nameTR": "Soğuş Tabağı",
+        "nameEN": "Fresh Vegetable Platter",
+        "price": "",
+        "descriptionTR": "Köy Domates, Köy Biber, Çerkezköy Salatalık, Maydanoz, Nane, Dereotu, Yeşil Elma Dilimleri, Kıvık Antep Fıstığı, Zeytinyağı, Nar Ekşisi, Deniz Tuzu",
+        "descriptionEN": "Village Tomato, Village Pepper, Çerkezköy Cucumber, Parsley, Mint, Dill, Green Apple Slices, Crushed Pistachios, Olive Oil, Pomegranate Molasses, Sea Salt"
+      },
+      {
+        "nameTR": "Zeytin Tabağı",
+        "nameEN": "Olive Platter",
+        "price": "",
+        "descriptionTR": "Siyah Sele Zeytin, Halây Kırık Zeytin, Izgara Yeşil Zeytin",
+        "descriptionEN": "Black Sele Olives, Crushed Hatay Olives, Grilled Green Olives"
+      },
+      {
+        "nameTR": "Odun Fırınından",
+        "nameEN": "From the Wood-Fired Oven",
+        "price": "",
+        "descriptionTR": "Sıcak Mayalı Ekmek, Mini Bagel, Simit, Sade Çörekotlu Sade Açma",
+        "descriptionEN": "Sourdough Bread, Mini Bagels, Simit, Plain Açma with Nigella Seeds"
+      },
+      {
+        "nameTR": "Yumurta Çeşitleri",
+        "nameEN": "Egg Varieties",
+        "price": "",
+        "descriptionTR": "• Çırpılmış Yumurta • Haşlanmış Yumurta • Göz Yumurta\n• Omlet • Menemen • Sucuklu Yumurta (Omlet Çeşitleri)\n• Omlet • Mantar • Otlu • Domatesli • Soğanlı (Sucuklu kaşarlı)",
+        "descriptionEN": "• Scrambled Eggs • Boiled Eggs • Fried Eggs\n• Omelette • Menemen • Eggs with Sausage (Omelette Varieties)\n• Omelette • Mushroom • Herb • Tomato • Onion (With sausage and cheese)"
+      },
+      {
+        "nameTR": "Şarküteri Tabağı",
+        "nameEN": "Charcuterie Board",
+        "price": "",
+        "descriptionTR": "• Pastırma • Dana Mortadella • Hindi Füme • Antrikot • Sucuk\n• Domates, Kırmızı Kapya Biber, Soğan, Patates, Mantar Yeşil Köy Biber, Ispanak, Maydanoz",
+        "descriptionEN": "• Pastrami • Beef Mortadella • Smoked Turkey • Entrecote • Sausage\n• Tomatoes, Red Capia Pepper, Onion, Potato, Mushroom, Village Green Pepper, Spinach, Parsley"
+      }
+    ]
+  },
+  {
+    "slug": "alacarte-kahvalti",
+    "titleTR": "A LA CARTE KAHVALTI",
+    "titleEN": "A LA CARTE BREAKFAST",
+    "items": [
+      {
+        "nameTR": "Brioche ekmeği üzerinde, Stracciatella peyniri, Kayısı Reçeli",
+        "nameEN": "Brioche bread with Stracciatella cheese and Apricot Jam",
         "price": "220₺",
-        "descriptionTR": "Kayısı Reçeli",
-        "descriptionEN": "Apricot Jam"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "İspanaklı Frittata",
         "nameEN": "Spinach Frittata",
         "price": "220₺",
-        "descriptionTR": "Taze Ispanak",
-        "descriptionEN": "Fresh Spinach"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Tiramisu Crepes",
         "nameEN": "Tiramisu Crepes",
         "price": "380₺",
-        "descriptionTR": "Mascarpone Soslu Yumurta Salatas, Tulum peyniri",
-        "descriptionEN": "Mascarpone Sauce with Egg Salad, Tulum cheese"
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Matbucha Soslu Yumurta Salatası, Tulum peyniri",
+        "nameEN": "Egg salad with Matbucha sauce, Tulum cheese",
+        "price": "340₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Peynir Tabağı",
-        "nameEN": "Cheese Plate",
-        "price": "380₺",
-        "descriptionTR": "Ezine peyniri, Kars Gravyer, Çerkezköy Obruk Gravyer",
-        "descriptionEN": "Ezine cheese, Kars Gruyere, Çerkezköy Obruk Gruyere"
+        "nameEN": "Cheese Platter",
+        "price": "480₺",
+        "descriptionTR": "Ezine peyniri, Otlu Peynir, Emmental Peyniri, Dible Obruk Peyniri",
+        "descriptionEN": "Ezine Cheese, Herb Cheese, Emmental Cheese, Dible Obruk Cheese"
       },
       {
-        "nameTR": "Soğuk Tabağı",
-        "nameEN": "Cold Plate",
+        "nameTR": "Soğuş Tabağı",
+        "nameEN": "Fresh Vegetable Platter",
         "price": "280₺",
-        "descriptionTR": "Koy Domates, Koy Biber, Çerkezköy Salatalık, Maydanoz, Nane",
-        "descriptionEN": "Village Tomato, Village Pepper, Çerkezköy Cucumber, Parsley, Mint"
+        "descriptionTR": "Köy Domates, Köy Biber, Çerkezköy Salatalık, Maydanoz, Nane, Dereotu, Yeşil Elma Dilimleri, Kıvık Antep Fıstığı, Zeytinyağı, Nar Ekşisi, Deniz Tuzu",
+        "descriptionEN": "Village Tomato, Village Pepper, Çerkezköy Cucumber, Parsley, Mint, Dill, Green Apple Slices, Crushed Pistachios, Olive Oil, Pomegranate Molasses, Sea Salt"
       },
       {
         "nameTR": "Zeytin Tabağı",
-        "nameEN": "Olive Plate",
-        "price": "180₺",
-        "descriptionTR": "Siyah Sele Zeytin, Kırma Zeytin, Yeşil Sele Zeytin",
-        "descriptionEN": "Black Sele Olive, Cracked Olive, Green Sele Olive"
-      },
-      {
-        "nameTR": "Odun Fırınından",
-        "nameEN": "From Wood Fire Oven",
-        "price": "180₺",
-        "descriptionTR": "Odun Ateşinde Kızartılmış, Mini Börek, Simit, Sade Açma",
-        "descriptionEN": "Wood Fire Roasted, Mini Börek, Bagel, Plain Açma"
+        "nameEN": "Olive Platter",
+        "price": "340₺",
+        "descriptionTR": "Siyah Sele Zeytin, Halây Kırık Zeytin, Izgara Yeşil Zeytin",
+        "descriptionEN": "Black Sele Olives, Crushed Hatay Olives, Grilled Green Olives"
       },
       {
         "nameTR": "Yumurta Çeşitleri",
         "nameEN": "Egg Varieties",
-        "price": "180₺",
-        "descriptionTR": "Çırpılmış Yumurta, Sahanda Yumurta, Kayganada 2 Yolk",
-        "descriptionEN": "Scrambled Eggs, Fried Eggs, Kayganada 2 Yolk"
+        "price": "",
+        "descriptionTR": "• Çırpılmış Yumurta 170₺ • Haşlanmış Yumurta 110₺\n• Omlet 170₺ • Menemen 150₺\n• Sucuklu Omlet 170₺",
+        "descriptionEN": "• Scrambled Eggs 170₺ • Boiled Eggs 110₺\n• Omelette 170₺ • Menemen (Turkish scrambled eggs) 150₺\n• Omelette with Sausage 170₺"
+      },
+      {
+        "nameTR": "Şarküteri Tabağı",
+        "nameEN": "Charcuterie Board",
+        "price": "710₺",
+        "descriptionTR": "• Pastırma • Dana Mortadella • Hindi Füme • Antrikot • Sucuk\n• Domates, Kırmızı Kapya Biber, Soğan, Patates, Mantar, Yeşil Köy Biber, Ispanak, Maydanoz",
+        "descriptionEN": "• Pastrami • Beef Mortadella • Smoked Turkey • Entrecote • Sausage\n• Tomatoes, Red Capia Pepper, Onion, Potato, Mushroom, Village Green Pepper, Spinach, Parsley"
       }
     ]
   },
   {
     "slug": "plaj",
     "titleTR": "PLAJ",
-    "titleEN": "BEACH",
+    "titleEN": "BEACH & PAVILION MENU",
     "items": [
+      {
+        "nameTR": "Ara Sıcaklar",
+        "nameEN": "Hot Appetizers",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
       {
         "nameTR": "Karides Tempura",
         "nameEN": "Shrimp Tempura",
-        "price": "1.040₺",
+        "price": "1040₺",
         "descriptionTR": "Wasabi mayonez",
-        "descriptionEN": "Wasabi mayo"
+        "descriptionEN": "Wasabi mayonnaise"
       },
       {
-        "nameTR": "Hamsi & Guacamole",
-        "nameEN": "Anchovy & Guacamole",
-        "price": "760₺",
-        "descriptionTR": "Hamsi & Guacamole",
-        "descriptionEN": "Anchovy & Guacamole"
+        "nameTR": "Humus & Guacamole",
+        "nameEN": "Hummus & Guacamole",
+        "price": "750₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Tender Taco",
-        "nameEN": "Tender Taco",
-        "price": "1.120₺",
-        "descriptionTR": "Bonfile beef Taco",
-        "descriptionEN": "Bonfile beef Taco"
+        "nameTR": "Et Tandır Taco",
+        "nameEN": "Braised Beef Taco",
+        "price": "1100₺",
+        "descriptionTR": "Soğan turşusu, tatlı-acı chili sos, tortilla ekmeği, Yedikule marul",
+        "descriptionEN": "Pickled onion, sweet-spicy chili sauce, tortilla bread, Yedikule lettuce"
       },
       {
-        "nameTR": "Kaşarlı Kalamar & Parmesan",
-        "nameEN": "Cheesy Squid & Parmesan",
-        "price": "1.120₺",
-        "descriptionTR": "Fried Calamari & Parmesan",
-        "descriptionEN": "Fried Calamari & Parmesan"
+        "nameTR": "Kızarmuş Kalamar & Parmesan",
+        "nameEN": "Fried Calamari & Parmesan",
+        "price": "1100₺",
+        "descriptionTR": "Lime, shichimi togarashi, deniz tuzu, tartar sos",
+        "descriptionEN": "Lime, shichimi togarashi, sea salt, tartar sauce"
       },
       {
         "nameTR": "Tavuk Sando",
-        "nameEN": "Chicken Sandwich",
-        "price": "860₺",
-        "descriptionTR": "Sulu mayonez, brioche ekmegi, parmesan soslu",
-        "descriptionEN": "Juicy mayo, brioche bread, parmesan sauce"
+        "nameEN": "Chicken Sando",
+        "price": "950₺",
+        "descriptionTR": "Spicy mayonez, brioche ekmeği, panelenmış tavuk",
+        "descriptionEN": "Spicy mayonnaise, brioche bread, breaded chicken"
       },
       {
-        "nameTR": "Truffle Patates Kızartması",
+        "nameTR": "Trüflü Patates Kızartması",
         "nameEN": "Truffle French Fries",
-        "price": "520₺",
-        "descriptionTR": "Truffle Patates Kızartması",
-        "descriptionEN": "Truffle French Fries"
+        "price": "530₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Burgerler",
+        "nameEN": "Burgers",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Tavuk Burger",
+        "nameEN": "Chicken Burger",
+        "price": "990₺",
+        "descriptionTR": "Coleslaw salatası, Mardin acur turşusu, trüflü ranch sos, marul yaprakları, patates kızartması",
+        "descriptionEN": "Coleslaw, Mardin-style cucumber pickles, truffle ranch sauce, lettuce leaves, French fries"
       },
       {
         "nameTR": "Smash Burger",
         "nameEN": "Smash Burger",
-        "price": "1.120₺",
-        "descriptionTR": "Karamelize soğan, burger, cheddar peynir, patates",
-        "descriptionEN": "Caramelized onion, burger, cheddar cheese, potatoes"
+        "price": "1100₺",
+        "descriptionTR": "Karamelize soğan, dana bacon, cheddar peyniri, patates kızartması",
+        "descriptionEN": "Caramelized onion, beef bacon, cheddar cheese, French fries"
       },
       {
-        "nameTR": "Reyanlı Pide",
-        "nameEN": "Reyan Pide",
-        "price": "720₺",
-        "descriptionTR": "Reyanlı Pide",
-        "descriptionEN": "Reyan Pide"
+        "nameTR": "Pideler",
+        "nameEN": "Pides",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Kaşarlı Pide",
+        "nameEN": "Pide with Cheese",
+        "price": "730₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Kıymalı Pide",
+        "nameEN": "Pide with Minced Beef",
+        "price": "900₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Kuşbaşı Kaşarlı Pide",
+        "nameEN": "Pide with Cubed Beef & Cheese",
+        "price": "990₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Kıymalı Kaşarlı Pide",
+        "nameEN": "Pide with Minced Beef & Cheese",
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Kuşbaşılı Pide",
-        "nameEN": "Diced Meat Pide",
-        "price": "960₺",
-        "descriptionTR": "Kuşbaşılı Pide",
-        "descriptionEN": "Diced Meat Pide"
+        "nameEN": "Pide with Cubed Beef",
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Lahmacun",
         "nameEN": "Lahmacun",
-        "price": "160₺",
-        "descriptionTR": "Lahmacun",
-        "descriptionEN": "Lahmacun"
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Pizza",
+        "nameEN": "Pizza",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Trüflü Napoli Pizza",
+        "nameEN": "Truffle Napoli Pizza",
+        "price": "950₺",
+        "descriptionTR": "Trüflü béchamel sos, kestane mantarı, trüf yağı, parmesan",
+        "descriptionEN": "Truffle béchamel sauce, chestnut mushrooms, truffle oil, parmesan"
       },
       {
         "nameTR": "Pizza Margherita",
         "nameEN": "Pizza Margherita",
-        "price": "620₺",
-        "descriptionTR": "Pizza Margherita",
-        "descriptionEN": "Pizza Margherita"
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Burrata Pizza",
         "nameEN": "Burrata Pizza",
         "price": "960₺",
-        "descriptionTR": "Burrata Pizza",
-        "descriptionEN": "Burrata Pizza"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "4 Peynirli Pizza",
-        "nameEN": "4 Cheese Pizza",
-        "price": "860₺",
-        "descriptionTR": "4 Peynirli Pizza",
-        "descriptionEN": "4 Cheese Pizza"
-      },
-      {
-        "nameTR": "Pizza Pepperoni",
-        "nameEN": "Pizza Pepperoni",
-        "price": "870₺",
-        "descriptionTR": "Pizza Pepperoni",
-        "descriptionEN": "Pizza Pepperoni"
+        "nameTR": "Makarnalar",
+        "nameEN": "Pasta",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Spaghetti Bolognese",
         "nameEN": "Spaghetti Bolognese",
-        "price": "510₺",
-        "descriptionTR": "Spaghetti Bolognese",
-        "descriptionEN": "Spaghetti Bolognese"
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Penne Arabiata",
+        "nameEN": "Penne Arabiata",
+        "price": "900₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Fettuccini Alfredo",
         "nameEN": "Fettuccini Alfredo",
-        "price": "510₺",
-        "descriptionTR": "Fettuccini Alfredo",
-        "descriptionEN": "Fettuccini Alfredo"
+        "price": "950₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Penne Arrabbiata",
-        "nameEN": "Penne Arrabbiata",
-        "price": "510₺",
-        "descriptionTR": "Penne Arrabbiata",
-        "descriptionEN": "Penne Arrabbiata"
+        "nameTR": "Salatalar",
+        "nameEN": "Salads",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Sezar Salata",
+        "nameEN": "Caesar Salad",
+        "price": "",
+        "descriptionTR": "Sezar sos, parmesan kıtırları, ızgara tavuk eti",
+        "descriptionEN": "Caesar dressing, parmesan crisps, grilled chicken"
+      },
+      {
+        "nameTR": "Sade",
+        "nameEN": "Regular",
+        "price": "490₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Tavuklu",
+        "nameEN": "With Chicken",
+        "price": "680₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Karidesli",
+        "nameEN": "With Shrimp",
+        "price": "780₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Yeşil Salata",
+        "nameEN": "Green Salad",
+        "price": "410₺",
+        "descriptionTR": "Marul, kiraz domates, avokado, feta peyniri, zeytinyağı",
+        "descriptionEN": "Lettuce, cherry tomatoes, avocado, feta cheese, olive oil"
+      },
+      {
+        "nameTR": "Burrata Salata",
+        "nameEN": "Burrata Salad",
+        "price": "780₺",
+        "descriptionTR": "Renkli domatesler, pesto sos, trüf ezmesi, siyah & yeşil zeytinler, fesleğen",
+        "descriptionEN": "Colorful tomatoes, pesto sauce, truffle paste, black & green olives, basil"
+      },
+      {
+        "nameTR": "Tatlılar",
+        "nameEN": "Desserts",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Limonlu Tiramisu",
+        "nameEN": "Lemon Tiramisu",
+        "price": "830₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Cannelloni",
+        "nameEN": "Cannelloni",
+        "price": "830₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Mango Cheesecake",
+        "nameEN": "Mango Cheesecake",
+        "price": "830₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Dondurma ve Sorbe Çeşitleri",
+        "nameEN": "Ice Cream and Sorbet Selection",
+        "price": "270₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       }
     ]
   },
@@ -278,137 +509,1250 @@
     "titleEN": "DRINKS",
     "items": [
       {
-        "nameTR": "Çorbalar",
-        "nameEN": "Soups",
+        "nameTR": "SPARKLING",
+        "nameEN": "SPARKLING",
         "price": "",
-        "descriptionTR": "Günlük Çorbalar",
-        "descriptionEN": "Daily Soups"
+        "descriptionTR": "Köpüklü Şaraplar",
+        "descriptionEN": "Sparkling Wines"
       },
       {
-        "nameTR": "Mercimek Çorbası",
-        "nameEN": "Lentil Soup",
-        "price": "270₺",
-        "descriptionTR": "Mercimek Çorbası",
-        "descriptionEN": "Lentil Soup"
+        "nameTR": "Ruffino Prosecco",
+        "nameEN": "Ruffino Prosecco",
+        "price": "950/4500₺",
+        "descriptionTR": "Italy",
+        "descriptionEN": "Italy"
       },
       {
-        "nameTR": "Kremalı Tarhana Çorbası",
-        "nameEN": "Creamy Tarhana Soup",
-        "price": "270₺",
-        "descriptionTR": "Kremalı Tarhana Çorbası",
-        "descriptionEN": "Creamy Tarhana Soup"
+        "nameTR": "Ruffino Prosecco Rose",
+        "nameEN": "Ruffino Prosecco Rose",
+        "price": "Italy 6000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Soğuk İçecekler",
-        "nameEN": "Cold Beverages",
+        "nameTR": "Vinkara Yaşasın",
+        "nameEN": "Vinkara Yaşasın",
+        "price": "7000₺",
+        "descriptionTR": "Ankara, Türkiye",
+        "descriptionEN": "Ankara, Turkey"
+      },
+      {
+        "nameTR": "CHAMPAGNE",
+        "nameEN": "CHAMPAGNE",
         "price": "",
-        "descriptionTR": "Soğuk İçecekler",
-        "descriptionEN": "Cold Beverages"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Dana Carpaccio",
-        "nameEN": "Beef Carpaccio",
-        "price": "720₺",
-        "descriptionTR": "Dana Carpaccio",
-        "descriptionEN": "Beef Carpaccio"
+        "nameTR": "Moet & Chandon",
+        "nameEN": "Moet & Chandon",
+        "price": "10500₺",
+        "descriptionTR": "France",
+        "descriptionEN": "France"
       },
       {
-        "nameTR": "Tuna Tataki",
-        "nameEN": "Tuna Tataki",
-        "price": "740₺",
-        "descriptionTR": "Tuna Tataki",
-        "descriptionEN": "Tuna Tataki"
+        "nameTR": "Moet & Chandon Impérial Ice",
+        "nameEN": "Moet & Chandon Impérial Ice",
+        "price": "12000₺",
+        "descriptionTR": "France",
+        "descriptionEN": "France"
       },
       {
-        "nameTR": "Levrek Carpaccio",
-        "nameEN": "Sea Bass Carpaccio",
-        "price": "520₺",
-        "descriptionTR": "Levrek Carpaccio",
-        "descriptionEN": "Sea Bass Carpaccio"
+        "nameTR": "Moet & Chandon Impérial Rosé",
+        "nameEN": "Moet & Chandon Impérial Rosé",
+        "price": "12000₺",
+        "descriptionTR": "France",
+        "descriptionEN": "France"
       },
       {
-        "nameTR": "Trio Tartar Ponzu Soslu",
-        "nameEN": "Trio Tartar with Ponzu Sauce",
-        "price": "860₺",
-        "descriptionTR": "Trio Tartar Ponzu Soslu",
-        "descriptionEN": "Trio Tartar with Ponzu Sauce"
+        "nameTR": "Veuve Clicquot Brut",
+        "nameEN": "Veuve Clicquot Brut",
+        "price": "12000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Ana Yemekler",
-        "nameEN": "Main Courses",
+        "nameTR": "Dom Perignon",
+        "nameEN": "Dom Perignon",
+        "price": "44000₺",
+        "descriptionTR": "France",
+        "descriptionEN": "France"
+      },
+      {
+        "nameTR": "WHITE",
+        "nameEN": "WHITE",
         "price": "",
-        "descriptionTR": "Ana Yemekler",
-        "descriptionEN": "Main Courses"
+        "descriptionTR": "Beyaz Şaraplar",
+        "descriptionEN": "White Wines"
       },
       {
-        "nameTR": "Padrón Biber",
-        "nameEN": "Padrón Peppers",
-        "price": "620₺",
-        "descriptionTR": "Padrón Biber",
-        "descriptionEN": "Padrón Peppers"
+        "nameTR": "Isabey",
+        "nameEN": "Isabey",
+        "price": "750/3600₺",
+        "descriptionTR": "Sauvignon Blanc / İzmir, Türkiye",
+        "descriptionEN": "Sauvignon Blanc / İzmir, Turkey"
       },
       {
-        "nameTR": "Deniz Tarağı",
-        "nameEN": "Scallops",
-        "price": "1120₺",
-        "descriptionTR": "Deniz Tarağı",
-        "descriptionEN": "Scallops"
+        "nameTR": "Urla",
+        "nameEN": "Urla",
+        "price": "850/4000₺",
+        "descriptionTR": "Chardonnay / İzmir, Türkiye",
+        "descriptionEN": "Chardonnay / İzmir, Turkey"
       },
       {
-        "nameTR": "Ahtapot Tava",
-        "nameEN": "Octopus Pan",
-        "price": "1520₺",
-        "descriptionTR": "Ahtapot Tava",
-        "descriptionEN": "Octopus Pan"
+        "nameTR": "Vinkara Hasandede",
+        "nameEN": "Vinkara Hasandede",
+        "price": "3750₺",
+        "descriptionTR": "Ankara, Türkiye",
+        "descriptionEN": "Ankara, Turkey"
       },
       {
-        "nameTR": "Tereyağlı Karides",
-        "nameEN": "Butter Shrimp",
-        "price": "1320₺",
-        "descriptionTR": "Tereyağlı Karides",
-        "descriptionEN": "Butter Shrimp"
+        "nameTR": "Lamberti Delle Venezie",
+        "nameEN": "Lamberti Delle Venezie",
+        "price": "4000₺",
+        "descriptionTR": "Italy",
+        "descriptionEN": "Italy"
       },
       {
-        "nameTR": "Ana Yemekler",
-        "nameEN": "Main Courses",
+        "nameTR": "Kayra Versuz",
+        "nameEN": "Kayra Versuz",
+        "price": "4200₺",
+        "descriptionTR": "Chardonnay-Viognier / Tekirdağ, Türkiye",
+        "descriptionEN": "Chardonnay-Viognier / Tekirdağ, Turkey"
+      },
+      {
+        "nameTR": "Kayra Vintage",
+        "nameEN": "Kayra Vintage",
+        "price": "3750₺",
+        "descriptionTR": "Sauvignon Blanc / Tekirdağ, Türkiye",
+        "descriptionEN": "Sauvignon Blanc / Tekirdağ, Turkey"
+      },
+      {
+        "nameTR": "Kayra Vintage",
+        "nameEN": "Kayra Vintage",
+        "price": "4000₺",
+        "descriptionTR": "Chardonnay / Tekirdağ, Türkiye",
+        "descriptionEN": "Chardonnay / Tekirdağ, Turkey"
+      },
+      {
+        "nameTR": "Kayra Vintage",
+        "nameEN": "Kayra Vintage",
+        "price": "850/4000₺",
+        "descriptionTR": "Narince / Tokat, Türkiye",
+        "descriptionEN": "Narince / Tokat, Turkey"
+      },
+      {
+        "nameTR": "Sarafin Fume Blanc",
+        "nameEN": "Sarafin Fume Blanc",
+        "price": "3750₺",
+        "descriptionTR": "Tekirdağ, Türkiye",
+        "descriptionEN": "Tekirdağ, Turkey"
+      },
+      {
+        "nameTR": "Umurbey",
+        "nameEN": "Umurbey",
+        "price": "4000₺",
+        "descriptionTR": "Sauvignon Blanc / Tekirdağ, Türkiye",
+        "descriptionEN": "Sauvignon Blanc / Tekirdağ, Turkey"
+      },
+      {
+        "nameTR": "Kayra Buzbağ",
+        "nameEN": "Kayra Buzbağ",
+        "price": "4000₺",
+        "descriptionTR": "Emir&Narince / Tokat, Türkiye",
+        "descriptionEN": "Emir&Narince / Tokat, Turkey"
+      },
+      {
+        "nameTR": "Yedibilgiler Anaxagoras",
+        "nameEN": "Yedibilgiler Anaxagoras",
+        "price": "4500₺",
+        "descriptionTR": "Chardonnay / Denizli, Türkiye",
+        "descriptionEN": "Chardonnay / Denizli, Turkey"
+      },
+      {
+        "nameTR": "Chamlija Felix Culpa",
+        "nameEN": "Chamlija Felix Culpa",
+        "price": "7500₺",
+        "descriptionTR": "Chardonnay / France",
+        "descriptionEN": "Chardonnay / France"
+      },
+      {
+        "nameTR": "Louis Jadot Chablis",
+        "nameEN": "Louis Jadot Chablis",
+        "price": "24500₺",
+        "descriptionTR": "Chardonnay / France",
+        "descriptionEN": "Chardonnay / France"
+      },
+      {
+        "nameTR": "ROSÉ",
+        "nameEN": "ROSÉ",
         "price": "",
-        "descriptionTR": "Ana Yemekler",
-        "descriptionEN": "Main Courses"
+        "descriptionTR": "Rosé Şaraplar",
+        "descriptionEN": "Rosé Wines"
       },
       {
-        "nameTR": "Levrek Chimichurri",
-        "nameEN": "Sea Bass Chimichurri",
-        "price": "950₺",
-        "descriptionTR": "Levrek Chimichurri",
-        "descriptionEN": "Sea Bass Chimichurri"
+        "nameTR": "Allure Beyaz",
+        "nameEN": "Allure Beyaz",
+        "price": "3600₺",
+        "descriptionTR": "Kalecik Karası / Denizli, Türkiye",
+        "descriptionEN": "Kalecik Karası / Denizli, Turkey"
       },
       {
-        "nameTR": "Beyaz Bianchi Soslu Tavuk Buti",
-        "nameEN": "Chicken Thigh with White Bianchi Sauce",
-        "price": "950₺",
-        "descriptionTR": "Beyaz Bianchi Soslu Tavuk Buti",
-        "descriptionEN": "Chicken Thigh with White Bianchi Sauce"
+        "nameTR": "Lamberti Delle Venezie",
+        "nameEN": "Lamberti Delle Venezie",
+        "price": "750/3600₺",
+        "descriptionTR": "Blush / Italy",
+        "descriptionEN": "Blush / Italy"
       },
       {
-        "nameTR": "Dana Bonfile Porcini Mantarlı",
-        "nameEN": "Beef Tenderloin with Porcini Mushrooms",
-        "price": "1670₺",
-        "descriptionTR": "Dana Bonfile Porcini Mantarlı",
-        "descriptionEN": "Beef Tenderloin with Porcini Mushrooms"
+        "nameTR": "Côtes de Province Fluers de Prairie",
+        "nameEN": "Côtes de Province Fluers de Prairie",
+        "price": "12500₺",
+        "descriptionTR": "France",
+        "descriptionEN": "France"
       },
       {
-        "nameTR": "Kuzu İncik",
-        "nameEN": "Lamb Shank",
-        "price": "1220₺",
-        "descriptionTR": "Kuzu İncik",
-        "descriptionEN": "Lamb Shank"
+        "nameTR": "Urla Serendias",
+        "nameEN": "Urla Serendias",
+        "price": "850/4000₺",
+        "descriptionTR": "İzmir, Türkiye",
+        "descriptionEN": "İzmir, Turkey"
       },
       {
-        "nameTR": "Patlıcan Moussaka",
-        "nameEN": "Eggplant Moussaka",
-        "price": "510₺",
-        "descriptionTR": "Patlıcan Moussaka",
-        "descriptionEN": "Eggplant Moussaka"
+        "nameTR": "RED",
+        "nameEN": "RED",
+        "price": "",
+        "descriptionTR": "Kırmızı Şaraplar",
+        "descriptionEN": "Red Wines"
+      },
+      {
+        "nameTR": "Büyülübağ",
+        "nameEN": "Büyülübağ",
+        "price": "750/3600₺",
+        "descriptionTR": "Ada Karası&Cab. Sauv / Balıkesir, Türkiye",
+        "descriptionEN": "Ada Karası&Cab. Sauv / Balıkesir, Turkey"
+      },
+      {
+        "nameTR": "Kayra Vintage",
+        "nameEN": "Kayra Vintage",
+        "price": "750/3600₺",
+        "descriptionTR": "Öküzgözü / Elazığ, Türkiye",
+        "descriptionEN": "Öküzgözü / Elazığ, Turkey"
+      },
+      {
+        "nameTR": "Suvla",
+        "nameEN": "Suvla",
+        "price": "1450/7000₺",
+        "descriptionTR": "Cab.Sauv&Merlot / Çanakkale, Türkiye",
+        "descriptionEN": "Cab.Sauv&Merlot / Çanakkale, Turkey"
+      },
+      {
+        "nameTR": "Kayra Vintage",
+        "nameEN": "Kayra Vintage",
+        "price": "3750₺",
+        "descriptionTR": "Cabernet Sauvignon / İzmir, Türkiye",
+        "descriptionEN": "Cabernet Sauvignon / İzmir, Turkey"
+      },
+      {
+        "nameTR": "Kayra Vintage",
+        "nameEN": "Kayra Vintage",
+        "price": "3750₺",
+        "descriptionTR": "Merlot / Trakya, Türkiye",
+        "descriptionEN": "Merlot / Trakya, Turkey"
+      },
+      {
+        "nameTR": "Kayra Vintage",
+        "nameEN": "Kayra Vintage",
+        "price": "3750₺",
+        "descriptionTR": "Boğazkere / Elazığ, Türkiye",
+        "descriptionEN": "Boğazkere / Elazığ, Turkey"
+      },
+      {
+        "nameTR": "Chamlija",
+        "nameEN": "Chamlija",
+        "price": "4000₺",
+        "descriptionTR": "Pinot Noir / Kırklareli, Türkiye",
+        "descriptionEN": "Pinot Noir / Kırklareli, Turkey"
+      },
+      {
+        "nameTR": "Cheteau bel air Bordeaux",
+        "nameEN": "Cheteau bel air Bordeaux",
+        "price": "4500₺",
+        "descriptionTR": "France",
+        "descriptionEN": "France"
+      },
+      {
+        "nameTR": "Urla Vourla",
+        "nameEN": "Urla Vourla",
+        "price": "4750₺",
+        "descriptionTR": "İzmir, Türkiye",
+        "descriptionEN": "İzmir, Turkey"
+      },
+      {
+        "nameTR": "Chateau Kalpak",
+        "nameEN": "Chateau Kalpak",
+        "price": "5500₺",
+        "descriptionTR": "Tekirdağ, Türkiye",
+        "descriptionEN": "Tekirdağ, Turkey"
+      },
+      {
+        "nameTR": "Chamlija Nev-i Şahsına Münasır",
+        "nameEN": "Chamlija Nev-i Şahsına Münasır",
+        "price": "6000₺",
+        "descriptionTR": "Tekirdağ, Türkiye",
+        "descriptionEN": "Tekirdağ, Turkey"
+      },
+      {
+        "nameTR": "Anent Blend",
+        "nameEN": "Anent Blend",
+        "price": "7500₺",
+        "descriptionTR": "Çanakkale, Türkiye",
+        "descriptionEN": "Çanakkale, Turkey"
+      },
+      {
+        "nameTR": "Amarone Clasicco Doch Masi Costasera",
+        "nameEN": "Amarone Clasicco Doch Masi Costasera",
+        "price": "15550₺",
+        "descriptionTR": "Italy",
+        "descriptionEN": "Italy"
+      },
+      {
+        "nameTR": "Sasciala Bolgheri Tenuta Sanguido",
+        "nameEN": "Sasciala Bolgheri Tenuta Sanguido",
+        "price": "50000₺",
+        "descriptionTR": "Italy",
+        "descriptionEN": "Italy"
+      },
+      {
+        "nameTR": "VODKA",
+        "nameEN": "VODKA",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SMIRNOFF",
+        "nameEN": "SMIRNOFF",
+        "price": "550/7000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "KETEL ONE",
+        "nameEN": "KETEL ONE",
+        "price": "650/8500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "GREY GOOSE",
+        "nameEN": "GREY GOOSE",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BELVEDERE",
+        "nameEN": "BELVEDERE",
+        "price": "900/12000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BELUGA NOBLE",
+        "nameEN": "BELUGA NOBLE",
+        "price": "950/13000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BELUGA GOLD",
+        "nameEN": "BELUGA GOLD",
+        "price": "16000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "GIN",
+        "nameEN": "GIN",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "TANQUERAY",
+        "nameEN": "TANQUERAY",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "TANQUERAY 10",
+        "nameEN": "TANQUERAY 10",
+        "price": "900/12000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MONKEY 47",
+        "nameEN": "MONKEY 47",
+        "price": "950/13000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "HENDRICK'S",
+        "nameEN": "HENDRICK'S",
+        "price": "900/12000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "ROKU",
+        "nameEN": "ROKU",
+        "price": "950/13000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "RUM",
+        "nameEN": "RUM",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "CAPT. MORGAN",
+        "nameEN": "CAPT. MORGAN",
+        "price": "750/9000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BAKARDI",
+        "nameEN": "BAKARDI",
+        "price": "800/9500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "CAPT. MORGAN GOLD",
+        "nameEN": "CAPT. MORGAN GOLD",
+        "price": "850/10000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "ZACAPA 23",
+        "nameEN": "ZACAPA 23",
+        "price": "900/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "WHISKY",
+        "nameEN": "WHISKY",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JAMESON",
+        "nameEN": "JAMESON",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JACK DANIELS",
+        "nameEN": "JACK DANIELS",
+        "price": "800/10500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JACK DANIELS SINGLE BAREL",
+        "nameEN": "JACK DANIELS SINGLE BAREL",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "GENTLEMEN JACK",
+        "nameEN": "GENTLEMEN JACK",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BULLEIT BOURBON",
+        "nameEN": "BULLEIT BOURBON",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JW RED LABEL",
+        "nameEN": "JW RED LABEL",
+        "price": "750/9500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JW BLACK LABEL",
+        "nameEN": "JW BLACK LABEL",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JW GOLD LABEL",
+        "nameEN": "JW GOLD LABEL",
+        "price": "950/12500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JW BLUE LABEL",
+        "nameEN": "JW BLUE LABEL",
+        "price": "1200/16000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JOHNIE WALKER 18 Y.O",
+        "nameEN": "JOHNIE WALKER 18 Y.O",
+        "price": "950/12500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MONKEY SHOULDER",
+        "nameEN": "MONKEY SHOULDER",
+        "price": "950/12500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "TALISKER 16 Y.O",
+        "nameEN": "TALISKER 16 Y.O",
+        "price": "1500/19500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SINGLETON 15 Y.O",
+        "nameEN": "SINGLETON 15 Y.O",
+        "price": "1200/16000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "GLENLIVET",
+        "nameEN": "GLENLIVET",
+        "price": "1200/16000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "LAGAVULIN 16 Y.O",
+        "nameEN": "LAGAVULIN 16 Y.O",
+        "price": "1400/18000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MACALLAN 12 Y.O",
+        "nameEN": "MACALLAN 12 Y.O",
+        "price": "1100/15000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MACALLAN 18 Y.O",
+        "nameEN": "MACALLAN 18 Y.O",
+        "price": "1300/17500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "HIBIKI",
+        "nameEN": "HIBIKI",
+        "price": "1500/19500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "CHIVAS 12 Y.O",
+        "nameEN": "CHIVAS 12 Y.O",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "CHIVAS 18 Y.O",
+        "nameEN": "CHIVAS 18 Y.O",
+        "price": "1200/16000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "ROYAL SALUTE 21 Y.O",
+        "nameEN": "ROYAL SALUTE 21 Y.O",
+        "price": "47000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "CHIVAS 25 Y.O",
+        "nameEN": "CHIVAS 25 Y.O",
+        "price": "80000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "TEKİLA",
+        "nameEN": "TEQUILA",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "OLMEGA SILVER",
+        "nameEN": "OLMEGA SILVER",
+        "price": "800/10500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "OLMEGA GOLD",
+        "nameEN": "OLMEGA GOLD",
+        "price": "900/12000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "CASAMIGOS MEZCAL",
+        "nameEN": "CASAMIGOS MEZCAL",
+        "price": "850/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "PATRON SILVER",
+        "nameEN": "PATRON SILVER",
+        "price": "900/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "PATRON REPESADO",
+        "nameEN": "PATRON REPESADO",
+        "price": "950/13000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "DON JULIO BLANCO",
+        "nameEN": "DON JULIO BLANCO",
+        "price": "900/11000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "AZUL PLATA",
+        "nameEN": "AZUL PLATA",
+        "price": "30000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "AZUL REPESEDO",
+        "nameEN": "AZUL REPESEDO",
+        "price": "45000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "DON JULIO 1942",
+        "nameEN": "DON JULIO 1942",
+        "price": "45000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "LİKÖRLER",
+        "nameEN": "LIQUEURS",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "APEROL",
+        "nameEN": "APEROL",
+        "price": "600₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "AMARETTO",
+        "nameEN": "AMARETTO",
+        "price": "600₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BAILEYS",
+        "nameEN": "BAILEYS",
+        "price": "600₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JAGERMEISTER",
+        "nameEN": "JAGERMEISTER",
+        "price": "550₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "KAHLUA",
+        "nameEN": "KAHLUA",
+        "price": "600₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "LIMONCELLO",
+        "nameEN": "LIMONCELLO",
+        "price": "550₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SAMBUCARDO",
+        "nameEN": "SAMBUCARDO",
+        "price": "600₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MALIBU",
+        "nameEN": "MALIBU",
+        "price": "600₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "ARCHERS",
+        "nameEN": "ARCHERS",
+        "price": "600₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "COINTRAU",
+        "nameEN": "COINTRAU",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MARTINI BIANCO",
+        "nameEN": "MARTINI BIANCO",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MARTINI EXTRA DRY",
+        "nameEN": "MARTINI EXTRA DRY",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MARTINI ROSSO",
+        "nameEN": "MARTINI ROSSO",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "ST. GERMAIN",
+        "nameEN": "ST. GERMAIN",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SAMBUCA",
+        "nameEN": "SAMBUCA",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SAFARI",
+        "nameEN": "SAFARI",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SKINOS",
+        "nameEN": "SKINOS",
+        "price": "850₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "KONYAK",
+        "nameEN": "COGNAC",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "HENNESSY V.S.",
+        "nameEN": "HENNESSY V.S.",
+        "price": "1050/14000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "HENNESSY V.S.O.P",
+        "nameEN": "HENNESSY V.S.O.P",
+        "price": "1100/15000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "HENNESSY X.O.",
+        "nameEN": "HENNESSY X.O.",
+        "price": "1600/21000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "RAKI",
+        "nameEN": "RAKI",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "YENI RAKI 70CL",
+        "nameEN": "YENI RAKI 70CL",
+        "price": "400/3500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "YENI SERI 70CL",
+        "nameEN": "YENI SERI 70CL",
+        "price": "450/3800₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "YENI RAKI 35CL",
+        "nameEN": "YENI RAKI 35CL",
+        "price": "2000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "YENI SERI 35 CL",
+        "nameEN": "YENI SERI 35 CL",
+        "price": "2200₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "ALTIN SERI 70CL",
+        "nameEN": "ALTIN SERI 70CL",
+        "price": "4250₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BEYLERBEYİ GÖBEK 70CL",
+        "nameEN": "BEYLERBEYİ GÖBEK 70CL",
+        "price": "5500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BEYLERBEYİ GÖBEK 35CL",
+        "nameEN": "BEYLERBEYİ GÖBEK 35CL",
+        "price": "3000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BİRA",
+        "nameEN": "BEER",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "EFES 33CL",
+        "nameEN": "EFES 33CL",
+        "price": "475₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "BOMONTİ 33CL",
+        "nameEN": "BOMONTİ 33CL",
+        "price": "475₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "HEINEKEN 33CL",
+        "nameEN": "HEINEKEN 33CL",
+        "price": "475₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "CORONA 33CL",
+        "nameEN": "CORONA 33CL",
+        "price": "475₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SHOT",
+        "nameEN": "SHOT",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "OLMEGA",
+        "nameEN": "OLMEGA",
+        "price": "450₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "PATRON SILVER",
+        "nameEN": "PATRON SILVER",
+        "price": "500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "LIMONCELLO",
+        "nameEN": "LIMONCELLO",
+        "price": "400₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "JAGERMEISTER",
+        "nameEN": "JAGERMEISTER",
+        "price": "450₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "KETEL ONE",
+        "nameEN": "KETEL ONE",
+        "price": "450₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SAMBUCA",
+        "nameEN": "SAMBUCA",
+        "price": "450₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SKINOS",
+        "nameEN": "SKINOS",
+        "price": "450₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "SOFT İÇECEKLER",
+        "nameEN": "SOFT DRINKS",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Su 33 cl",
+        "nameEN": "Water 33 cl",
+        "price": "220₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Su 75 cl",
+        "nameEN": "Water 75 cl",
+        "price": "300₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Soda",
+        "nameEN": "Mineral Water",
+        "price": "225₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Coca Cola/Zero",
+        "nameEN": "Coca Cola/Zero",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Fanta",
+        "nameEN": "Fanta",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Sprite",
+        "nameEN": "Sprite",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "San Pelegrino 33 cl",
+        "nameEN": "San Pelegrino 33 cl",
+        "price": "300₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "San Pelegrino 75 cl",
+        "nameEN": "San Pelegrino 75 cl",
+        "price": "420₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Ice Tea Şeftali",
+        "nameEN": "Ice Tea Peach",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Ice Tea Limon",
+        "nameEN": "Ice Tea Lemon",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Redbul",
+        "nameEN": "Redbul",
+        "price": "350₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Tonik",
+        "nameEN": "Tonic",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Ayran",
+        "nameEN": "Ayran",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Ginger Ale",
+        "nameEN": "Ginger Ale",
+        "price": "275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Taze Portakal Suyu",
+        "nameEN": "Fresh Orange Juice",
+        "price": "400₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "LİMONATA",
+        "nameEN": "LEMONADE",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Limonata",
+        "nameEN": "Lemonade",
+        "price": "300₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Çilek/Nane",
+        "nameEN": "Strawberry/Mint",
+        "price": "350₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "TAZELER",
+        "nameEN": "FRESH",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Havuç Suyu",
+        "nameEN": "Carrot Juice",
+        "price": "400₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Havuç, Elma, Portakal",
+        "nameEN": "Carrot, Apple, Orange",
+        "price": "400₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Elma Suyu",
+        "nameEN": "Apple Juice",
+        "price": "400₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "MOCKTAIL",
+        "nameEN": "MOCKTAIL",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Sweet Bonventi",
+        "nameEN": "Sweet Bonventi",
+        "price": "600₺",
+        "descriptionTR": "Çarkıfelek, Mango, Ananas, Portakal, Limon",
+        "descriptionEN": "Passion Fruit, Mango, Pineapple, Orange, Lemon"
+      },
+      {
+        "nameTR": "Sour Bonventi",
+        "nameEN": "Sour Bonventi",
+        "price": "600₺",
+        "descriptionTR": "Kuzu Kulağı, Portakal, Limon",
+        "descriptionEN": "Sorrel, Orange, Lemon"
+      },
+      {
+        "nameTR": "Sweet & Sour",
+        "nameEN": "Sweet & Sour",
+        "price": "600₺",
+        "descriptionTR": "Vişne, Portakal, Limon",
+        "descriptionEN": "Sour Cherry, Orange, Lemon"
+      },
+      {
+        "nameTR": "Virgin Mojito",
+        "nameEN": "Virgin Mojito",
+        "price": "600₺",
+        "descriptionTR": "Şeker, Nane, Sprite",
+        "descriptionEN": "Candy, Mint, Sprite"
+      },
+      {
+        "nameTR": "SICAK İÇECEKLER",
+        "nameEN": "HOT DRINKS",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Demleme Çay",
+        "nameEN": "Turkish Tea",
+        "price": "125₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Bitki Çayları",
+        "nameEN": "Herbal Tea",
+        "price": "275₺",
+        "descriptionTR": "Yeşil Çay, Ihlamur, Hibiskus",
+        "descriptionEN": "Green Tea, Linden, Hibiscus"
+      },
+      {
+        "nameTR": "Türk Kahvesi",
+        "nameEN": "Turkish Coffee",
+        "price": "220₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Espresso",
+        "nameEN": "Espresso",
+        "price": "220/275₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Macchiato",
+        "nameEN": "Macchiato",
+        "price": "250₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Americano",
+        "nameEN": "Americano",
+        "price": "250₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Filtre Kahve",
+        "nameEN": "Filter Coffee",
+        "price": "240₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Latte",
+        "nameEN": "Latte",
+        "price": "300₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Cappuccino",
+        "nameEN": "Cappuccino",
+        "price": "300₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Sıcak Çikolata",
+        "nameEN": "Hot Chocolate",
+        "price": "300₺",
+        "descriptionTR": "",
+        "descriptionEN": "Hot Chocolate"
       }
     ]
   },
@@ -419,130 +1763,333 @@
     "time": "(19:00 - 01:00)",
     "items": [
       {
-        "nameTR": "Sezar Salata",
-        "nameEN": "Caesar Salad",
-        "price": "690₺",
-        "descriptionTR": "Parmesan peyniri, kruton, sezar sosu",
-        "descriptionEN": "Parmesan cheese, croutons, caesar sauce"
+        "nameTR": "Soğuk Başlangıçlar",
+        "nameEN": "Cold Starters",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Burrata Salata",
-        "nameEN": "Burrata Salad",
-        "price": "760₺",
-        "descriptionTR": "Burrata peyniri, çeri domates, roka & yeşil yapraklar",
-        "descriptionEN": "Burrata cheese, cherry tomatoes, arugula & green leaves"
+        "nameTR": "Dana Carpaccio",
+        "nameEN": "Beef Carpaccio",
+        "price": "730₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Vişneli Tomato",
-        "nameEN": "Cherry Tomato",
-        "price": "760₺",
-        "descriptionTR": "Vişneli Tomato",
-        "descriptionEN": "Cherry Tomato"
+        "nameTR": "Tuna Tataki",
+        "nameEN": "Tuna Tataki",
+        "price": "745₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Caprese Salata",
-        "nameEN": "Caprese Salad",
-        "price": "720₺",
-        "descriptionTR": "Caprese Salata",
-        "descriptionEN": "Caprese Salad"
-      },
-      {
-        "nameTR": "Portakalı Enginar Salata",
-        "nameEN": "Orange Artichoke Salad",
-        "price": "690₺",
-        "descriptionTR": "Portakalı Enginar Salata",
-        "descriptionEN": "Orange Artichoke Salad"
-      },
-      {
-        "nameTR": "Doña Grütleri Salata",
-        "nameEN": "Doña Grütleri Salad",
+        "nameTR": "Levrek Carpaccio",
+        "nameEN": "Sea Bass Carpaccio",
         "price": "620₺",
-        "descriptionTR": "Doña Grütleri Salata",
-        "descriptionEN": "Doña Grütleri Salad"
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Trio Tartar Ponzo Soslu",
+        "nameEN": "Trio Tartare with Ponzu Sauce",
+        "price": "850₺",
+        "descriptionTR": "Somon • Levrek • Tuna",
+        "descriptionEN": "Salmon • Sea Bass • Tuna"
+      },
+      {
+        "nameTR": "Ara Sıcaklar",
+        "nameEN": "Hot Appetizers",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Padron Biber",
+        "nameEN": "Padrón Peppers",
+        "price": "620₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Yuzu Karides",
+        "nameEN": "Yuzu Shrimp",
+        "price": "1100₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Deniz Tarağı",
+        "nameEN": "Scallop with Orange Sauce",
+        "price": "1100₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Ahtapot Tava",
+        "nameEN": "Octopus Pan",
+        "price": "1500₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Et Tandır Taco",
+        "nameEN": "Beef Tandoori Taco",
+        "price": "1100₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Tereyağlı Karides",
+        "nameEN": "Buttered Shrimp",
+        "price": "1000₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Ana Yemekler",
+        "nameEN": "Main Course",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Levrek Chimichurri",
+        "nameEN": "Seabass Chimichurri",
+        "price": "1300₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Beurre Blanch Soslu Tavuk But",
+        "nameEN": "Chicken Thigh with Beurre Blanc sauce",
+        "price": "990₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Dana Bonfile Porcini Mantarlı",
+        "nameEN": "Beef Tenderloin with Porcini Mushrooms",
+        "price": "1610₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Kuzu İncik",
+        "nameEN": "Lamb Shank",
+        "price": "1250₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Patlıcan Melanzane",
+        "nameEN": "Eggplant Melanzane",
+        "price": "910₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Makarna",
+        "nameEN": "Pasta",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Porcini Mantarlı Risotto",
+        "nameEN": "Porcini Mushroom Risotto",
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Deniz Mahsüllü Tagliatelle",
+        "nameEN": "Seafood Tagliatelle",
+        "price": "1400₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Ahtapot Orzo",
+        "nameEN": "Octopus Orzo",
+        "price": "1400₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Spaghetti Bolonez",
+        "nameEN": "Spaghetti Bolognese",
+        "price": "910₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Spaghetti Burrata",
+        "nameEN": "Spaghetti with Burrata",
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Fettuccini Alfredo",
+        "nameEN": "Fettuccine Alfredo",
+        "price": "910₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Pizza",
+        "nameEN": "Pizza",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Pizza Margherita",
+        "nameEN": "Pizza Margherita",
+        "price": "750₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Armutlu 4 Peynirli Pizza",
+        "nameEN": "Pear Four Cheese Pizza",
+        "price": "950₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Pizza Pepperoni",
+        "nameEN": "Pizza Pepperoni",
+        "price": "970₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Pizza Burrata",
+        "nameEN": "Pizza Burrata",
+        "price": "980₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Trüflü & Taze İncirli Vejetaryen Pizza",
+        "nameEN": "Vegetarian pizza with truffle and fresh figs",
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Deniz Mahsüllü Pizza",
+        "nameEN": "Seafood Pizza",
+        "price": "960₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Salatalar",
         "nameEN": "Salads",
         "price": "",
-        "descriptionTR": "Salatalar",
-        "descriptionEN": "Salads"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Sezar Salata",
         "nameEN": "Caesar Salad",
-        "price": "690₺",
-        "descriptionTR": "Parmesan peyniri, kruton, sezar sosu",
-        "descriptionEN": "Parmesan cheese, croutons, caesar sauce"
+        "price": "",
+        "descriptionTR": "Sezar sos, parmesan kıtırları, ızgara istiridye mantarı, Yedikule marul, parmesan",
+        "descriptionEN": "Caesar dressing, parmesan crisps, grilled oyster mushrooms, Yedikule lettuce, parmesan"
       },
       {
-        "nameTR": "Nicolai Salata",
-        "nameEN": "Nicolai Salad",
+        "nameTR": "Sade",
+        "nameEN": "Regular",
+        "price": "450₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Tavuklu",
+        "nameEN": "With Chicken",
+        "price": "640₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Karidesli",
+        "nameEN": "With Shrimp",
+        "price": "780₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Nicoise Salatası",
+        "nameEN": "Nicoise Salad",
         "price": "690₺",
-        "descriptionTR": "Nicolai Salata",
-        "descriptionEN": "Nicolai Salad"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Vitello Tonnato",
         "nameEN": "Vitello Tonnato",
-        "price": "760₺",
-        "descriptionTR": "Vitello Tonnato",
-        "descriptionEN": "Vitello Tonnato"
+        "price": "790₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Sole",
-        "nameEN": "Sole",
-        "price": "860₺",
-        "descriptionTR": "Sole",
-        "descriptionEN": "Sole"
+        "nameTR": "Caprese Salatası",
+        "nameEN": "Caprese Salad",
+        "price": "720₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Tavuklu",
-        "nameEN": "Chicken",
-        "price": "640₺",
-        "descriptionTR": "Tavuklu",
-        "descriptionEN": "Chicken"
+        "nameTR": "Portakallı Enginar Salatası",
+        "nameEN": "Orange & Artichoke Salad",
+        "price": "690₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Karideşli",
-        "nameEN": "Shrimp",
-        "price": "760₺",
-        "descriptionTR": "Karideşli",
-        "descriptionEN": "Shrimp"
+        "nameTR": "Deniz Ürünleri Salatası",
+        "nameEN": "Seafood Salad",
+        "price": "840₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Tatlılar",
         "nameEN": "Desserts",
         "price": "",
-        "descriptionTR": "Tatlılar",
-        "descriptionEN": "Desserts"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Limonlu Tiramisu",
         "nameEN": "Lemon Tiramisu",
-        "price": "520₺",
-        "descriptionTR": "Limonlu Tiramisu",
-        "descriptionEN": "Lemon Tiramisu"
+        "price": "830₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Cannelloni",
         "nameEN": "Cannelloni",
-        "price": "520₺",
-        "descriptionTR": "Cannelloni",
-        "descriptionEN": "Cannelloni"
+        "price": "835₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Mango Cheesecake",
         "nameEN": "Mango Cheesecake",
-        "price": "520₺",
-        "descriptionTR": "Mango Cheesecake",
-        "descriptionEN": "Mango Cheesecake"
+        "price": "830₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Dondurma ve Sorbe Çeşitleri",
-        "nameEN": "Ice Cream and Sorbet Varieties",
+        "nameEN": "Ice Cream and Sorbet Selection",
         "price": "270₺",
-        "descriptionTR": "Dondurma ve Sorbe Çeşitleri",
-        "descriptionEN": "Ice Cream and Sorbet Varieties"
+        "descriptionTR": "",
+        "descriptionEN": ""
       }
     ]
   },
@@ -555,190 +2102,176 @@
         "nameTR": "Salatalar",
         "nameEN": "Salads",
         "price": "",
-        "descriptionTR": "Salatalar",
-        "descriptionEN": "Salads"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Sezar Salata",
         "nameEN": "Caesar Salad",
-        "price": "690₺",
-        "descriptionTR": "Parmesan peyniri, kruton, sezar sosu",
-        "descriptionEN": "Parmesan cheese, croutons, caesar sauce"
+        "price": "",
+        "descriptionTR": "Sezar sos, parmesan kıtırları, ızgara istiridye mantarı, Yedikule marul, parmesan",
+        "descriptionEN": "Caesar dressing, parmesan crisps, grilled oyster mushrooms, Yedikule lettuce, parmesan"
       },
       {
         "nameTR": "Sade",
-        "nameEN": "Plain",
-        "price": "640₺",
-        "descriptionTR": "Tavuklu",
-        "descriptionEN": "With Chicken"
+        "nameEN": "Regular",
+        "price": "490₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Tavuklu",
-        "nameEN": "Chicken",
+        "nameEN": "With Chicken",
         "price": "640₺",
-        "descriptionTR": "Tavuklu",
-        "descriptionEN": "With Chicken"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Karideşli",
-        "nameEN": "Shrimp",
-        "price": "760₺",
-        "descriptionTR": "Karideşli",
-        "descriptionEN": "With Shrimp"
+        "nameTR": "Karidesli",
+        "nameEN": "With Shrimp",
+        "price": "780₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Vişneli Balık Salata",
-        "nameEN": "Cherry Fish Salad",
-        "price": "870₺",
-        "descriptionTR": "Vişneli Balık Salata",
-        "descriptionEN": "Cherry Fish Salad"
+        "nameTR": "Yeşil Bahçe Salata",
+        "nameEN": "Green Salad",
+        "price": "490₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Caprese Salata",
+        "nameTR": "Caprese Salatası",
         "nameEN": "Caprese Salad",
         "price": "720₺",
-        "descriptionTR": "Caprese Salata",
-        "descriptionEN": "Caprese Salad"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Makarnalar",
+        "nameTR": "Makarna",
         "nameEN": "Pasta",
         "price": "",
-        "descriptionTR": "Makarnalar",
-        "descriptionEN": "Pasta"
-      },
-      {
-        "nameTR": "Porcini Mantarlı Risotto",
-        "nameEN": "Porcini Mushroom Risotto",
-        "price": "520₺",
-        "descriptionTR": "Porcini Mantarlı Risotto",
-        "descriptionEN": "Porcini Mushroom Risotto"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Spaghetti Burrata",
         "nameEN": "Spaghetti Burrata",
-        "price": "510₺",
-        "descriptionTR": "Spaghetti Burrata",
-        "descriptionEN": "Spaghetti Burrata"
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Spaghetti Bolognese",
+        "nameEN": "Spaghetti Bolognese",
+        "price": "910₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Fettuccini Alfredo",
         "nameEN": "Fettuccini Alfredo",
-        "price": "510₺",
-        "descriptionTR": "Fettuccini Alfredo",
-        "descriptionEN": "Fettuccini Alfredo"
+        "price": "910₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
+      },
+      {
+        "nameTR": "Pizza",
+        "nameEN": "Pizza",
+        "price": "",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Pizza Margherita",
         "nameEN": "Pizza Margherita",
-        "price": "620₺",
-        "descriptionTR": "Pizza Margherita",
-        "descriptionEN": "Pizza Margherita"
+        "price": "830₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Arancini e Prosciutto Pizza",
-        "nameEN": "Arancini e Prosciutto Pizza",
-        "price": "920₺",
-        "descriptionTR": "Arancini e Prosciutto Pizza",
-        "descriptionEN": "Arancini e Prosciutto Pizza"
+        "nameTR": "4 Peynirli Pizza",
+        "nameEN": "Four Cheese Pizza",
+        "price": "940₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Pizza Pepperoni",
         "nameEN": "Pizza Pepperoni",
-        "price": "870₺",
-        "descriptionTR": "Pizza Pepperoni",
-        "descriptionEN": "Pizza Pepperoni"
-      },
-      {
-        "nameTR": "Pizza Burrata",
-        "nameEN": "Pizza Burrata",
-        "price": "960₺",
-        "descriptionTR": "Pizza Burrata",
-        "descriptionEN": "Pizza Burrata"
-      },
-      {
-        "nameTR": "Truffle & Taze İncirli Vepetaryan Pizza",
-        "nameEN": "Truffle & Fresh Fig Vegetarian Pizza",
-        "price": "920₺",
-        "descriptionTR": "Truffle & Taze İncirli Vepetaryan Pizza",
-        "descriptionEN": "Truffle & Fresh Fig Vegetarian Pizza"
-      },
-      {
-        "nameTR": "Deniz Mahsullü Pizza",
-        "nameEN": "Seafood Pizza",
-        "price": "960₺",
-        "descriptionTR": "Deniz Mahsullü Pizza",
-        "descriptionEN": "Seafood Pizza"
+        "price": "970₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Burger & Taco",
         "nameEN": "Burger & Taco",
         "price": "",
-        "descriptionTR": "Burger & Taco",
-        "descriptionEN": "Burger & Taco"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Tavuk Burger",
         "nameEN": "Chicken Burger",
-        "price": "860₺",
-        "descriptionTR": "Tavuk göğsü ile yapılan burger, brioche ekmek",
-        "descriptionEN": "Chicken breast burger, brioche bread"
+        "price": "850₺",
+        "descriptionTR": "Coleslaw salatası, Mardin acur turşusu, trüflü ranch sos, marul yaprakları, patates kızartması",
+        "descriptionEN": "Coleslaw, Mardin-style cucumber pickles, truffle ranch sauce, lettuce leaves, French fries"
       },
       {
         "nameTR": "Smash Burger",
         "nameEN": "Smash Burger",
-        "price": "960₺",
-        "descriptionTR": "Karamelize soğan, burger, cheddar peynir, patates",
-        "descriptionEN": "Caramelized onion, burger, cheddar cheese, potatoes"
+        "price": "990₺",
+        "descriptionTR": "Karamelize soğan, dana bacon, cheddar peyniri, patates kızartması",
+        "descriptionEN": "Caramelized onion, beef bacon, cheddar cheese, French fries"
       },
       {
-        "nameTR": "El Tender Taco",
-        "nameEN": "El Tender Taco",
-        "price": "1.120₺",
-        "descriptionTR": "Bonfile beef Taco ile yapılan taco, avokado",
-        "descriptionEN": "Bonfile beef Taco with avocado"
+        "nameTR": "Et Tandır Taco",
+        "nameEN": "Braised Beef Taco",
+        "price": "1100₺",
+        "descriptionTR": "Soğan turşusu, tatlı-acı chili sos, tortilla ekmeği, Yedikule marul",
+        "descriptionEN": "Pickled onion, sweet-spicy chili sauce, tortilla bread, Yedikule lettuce"
       },
       {
-        "nameTR": "Tavuk Tender Taco",
-        "nameEN": "Chicken Tender Taco",
-        "price": "960₺",
-        "descriptionTR": "Tavuk göğsü ile yapılan taco, avokado",
-        "descriptionEN": "Chicken breast taco with avocado"
+        "nameTR": "Tavuk Tandır Taco",
+        "nameEN": "Chicken Tandoori Taco",
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Tatlılar",
         "nameEN": "Desserts",
         "price": "",
-        "descriptionTR": "Tatlılar",
-        "descriptionEN": "Desserts"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Limonlu Tiramisu",
         "nameEN": "Lemon Tiramisu",
-        "price": "520₺",
-        "descriptionTR": "Limonlu Tiramisu",
-        "descriptionEN": "Lemon Tiramisu"
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Cannelloni",
         "nameEN": "Cannelloni",
-        "price": "520₺",
-        "descriptionTR": "Cannelloni",
-        "descriptionEN": "Cannelloni"
+        "price": "935₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Mango Cheesecake",
         "nameEN": "Mango Cheesecake",
-        "price": "520₺",
-        "descriptionTR": "Mango Cheesecake",
-        "descriptionEN": "Mango Cheesecake"
+        "price": "930₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Dondurma ve Sorbe Çeşitleri",
-        "nameEN": "Ice Cream and Sorbet Varieties",
+        "nameEN": "Ice Cream and Sorbet Selection",
         "price": "270₺",
-        "descriptionTR": "Dondurma ve Sorbe Çeşitleri",
-        "descriptionEN": "Ice Cream and Sorbet Varieties"
+        "descriptionTR": "",
+        "descriptionEN": ""
       }
     ]
   },
@@ -748,123 +2281,60 @@
     "titleEN": "WINE",
     "items": [
       {
-        "nameTR": "Sparkling",
-        "nameEN": "Sparkling",
+        "nameTR": "Beyaz Şaraplar",
+        "nameEN": "White Wines",
         "price": "",
-        "descriptionTR": "Köpüklü Şaraplar",
-        "descriptionEN": "Sparkling Wines"
-      },
-      {
-        "nameTR": "Prosecco",
-        "nameEN": "Prosecco",
-        "price": "850₺",
-        "descriptionTR": "İtalyan Prosecco",
-        "descriptionEN": "Italian Prosecco"
-      },
-      {
-        "nameTR": "Champagne",
-        "nameEN": "Champagne",
-        "price": "2.500₺",
-        "descriptionTR": "Fransız Şampanya",
-        "descriptionEN": "French Champagne"
-      },
-      {
-        "nameTR": "White",
-        "nameEN": "White",
-        "price": "",
-        "descriptionTR": "Beyaz Şaraplar",
-        "descriptionEN": "White Wines"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Sauvignon Blanc",
         "nameEN": "Sauvignon Blanc",
-        "price": "1.200₺",
-        "descriptionTR": "Sauvignon Blanc",
-        "descriptionEN": "Sauvignon Blanc"
+        "price": "1200₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Chardonnay",
         "nameEN": "Chardonnay",
-        "price": "1.350₺",
-        "descriptionTR": "Chardonnay",
-        "descriptionEN": "Chardonnay"
+        "price": "1350₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Riesling",
-        "nameEN": "Riesling",
-        "price": "1.100₺",
-        "descriptionTR": "Riesling",
-        "descriptionEN": "Riesling"
-      },
-      {
-        "nameTR": "Red",
-        "nameEN": "Red",
+        "nameTR": "Kırmızı Şaraplar",
+        "nameEN": "Red Wines",
         "price": "",
-        "descriptionTR": "Kırmızı Şaraplar",
-        "descriptionEN": "Red Wines"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Cabernet Sauvignon",
         "nameEN": "Cabernet Sauvignon",
-        "price": "1.450₺",
-        "descriptionTR": "Cabernet Sauvignon",
-        "descriptionEN": "Cabernet Sauvignon"
+        "price": "1450₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Merlot",
         "nameEN": "Merlot",
-        "price": "1.300₺",
-        "descriptionTR": "Merlot",
-        "descriptionEN": "Merlot"
+        "price": "1300₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
-        "nameTR": "Pinot Noir",
-        "nameEN": "Pinot Noir",
-        "price": "1.550₺",
-        "descriptionTR": "Pinot Noir",
-        "descriptionEN": "Pinot Noir"
-      },
-      {
-        "nameTR": "Rosé",
-        "nameEN": "Rosé",
+        "nameTR": "Rosé Şaraplar",
+        "nameEN": "Rosé Wines",
         "price": "",
-        "descriptionTR": "Rosé Şaraplar",
-        "descriptionEN": "Rosé Wines"
+        "descriptionTR": "",
+        "descriptionEN": ""
       },
       {
         "nameTR": "Provence Rosé",
         "nameEN": "Provence Rosé",
-        "price": "1.250₺",
-        "descriptionTR": "Provence Rosé",
-        "descriptionEN": "Provence Rosé"
-      },
-      {
-        "nameTR": "Turkish Wines",
-        "nameEN": "Turkish Wines",
-        "price": "",
-        "descriptionTR": "Türk Şarapları",
-        "descriptionEN": "Turkish Wines"
-      },
-      {
-        "nameTR": "Kalecik Karası",
-        "nameEN": "Kalecik Karası",
-        "price": "950₺",
-        "descriptionTR": "Kalecik Karası",
-        "descriptionEN": "Kalecik Karası"
-      },
-      {
-        "nameTR": "Öküzgözü",
-        "nameEN": "Öküzgözü",
-        "price": "1.050₺",
-        "descriptionTR": "Öküzgözü",
-        "descriptionEN": "Öküzgözü"
-      },
-      {
-        "nameTR": "Narince",
-        "nameEN": "Narince",
-        "price": "850₺",
-        "descriptionTR": "Narince",
-        "descriptionEN": "Narince"
+        "price": "1250₺",
+        "descriptionTR": "",
+        "descriptionEN": ""
       }
     ]
   }
